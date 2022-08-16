@@ -1,0 +1,78 @@
+# depslib dependency file v1.0
+1655071099 source:c:\antoine\bachelier\c\evrard_examen_antoine_paquay\main.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<myconio.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	<assert.h>
+
+1655106764 source:c:\users\pépito\desktop\antoine\programmation\cours du soir\c\evrard_examen_antoine_paquay\main.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<myconio.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	<assert.h>
+
+1654763074 source:c:\antoine\bachelier\c\c\evrard_examen_antoine_paquay\main.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<myconio.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+
+1654811038 source:c:\users\antoine\desktop\9_juin\evrard_examen_antoine_paquay\main.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<myconio.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+
+1654898540 source:c:\antoine\bachelier\c\current version\evrard_examen_antoine_paquay\main.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<myconio.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+
+1655655766 source:c:\evrard_examen_antoine_paquay\main.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<myconio.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	<assert.h>
+
+1655655768 source:c:\users\paqua\desktop\exs_pap_paquay\projet_complet_antoine_paquay\main.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<myconio.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	<assert.h>
+
+1655661165 source:c:\users\paqua\desktop\nouveau dossier\exs_pap_paquay\exs_pap_paquay\projet_complet_antoine_paquay\main.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<myconio.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	<assert.h>
+
